@@ -27,6 +27,7 @@ If none of the gui editors are found it defaults to nano.
 You can force the use of nano or vim with the --nano and --vim flags
 
 Usage:
+
 recipe.sh 'My new recipe' - creates the file and opens in one of the editors above
 
 recipe.sh --vim 'My new recipe' - creates the file and opens with vim
