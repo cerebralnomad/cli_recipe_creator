@@ -8,7 +8,7 @@ The format of the file is:
 
 ===============================
 
-Recipe Title
+<Recipe Title>
 
 Ingredients
 
