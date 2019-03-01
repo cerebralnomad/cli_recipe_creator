@@ -1,4 +1,4 @@
-# recipe_creator
+# cli_recipe_creator
 Shell script to create recipe template and open in text editor
 
 This script takes the name of the recipe "My New Recipe" and creates a preformatted blank
